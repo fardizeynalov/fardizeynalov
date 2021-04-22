@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ferdizeynalov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Django
+- 🌱 I’m currently learning Django
 - 📫 How to reach me instagram.com/ferdi.zeynalov
 
 <!---
