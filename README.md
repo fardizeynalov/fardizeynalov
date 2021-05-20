@@ -14,7 +14,7 @@
 
 </p> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=beyrakin&theme=dark&count_private=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ferdizeynalov&theme=dark&count_private=true&show_icons=true" />
 
 - 🔭 I’m currently working on **E-commerce project**
 
@@ -101,11 +101,7 @@
 [comment]: <> (    <a target="_blank" href="https://medium.com/@beyrak"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  </a>)
 </p>
 
-* **Store**
 
-<p align="center">
-    <a target="_blank" href="https://play.google.com/store/>    <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> </a>
-</p>
 
 [comment]: <> (* **Music**)
 
