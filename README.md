@@ -3,13 +3,7 @@
 
 <p align="center"> 
 
-[comment]: <> (   <img src="https://komarev.com/ghpvc/?username=beyrakin&label=Profile%20views&color=ec1313&style=flat" alt="beyrakin" /> )
 
-[comment]: <> (   <img src="https://img.shields.io/github/followers/beyrakIn?style=social" />)
-
-[comment]: <> (   <img  src="https://img.shields.io/twitter/follow/beyrakmsc?style=social" />)
-
-[comment]: <> (   <img src="https://img.shields.io/github/sponsors/beyrakIn?style=social" />)
    </br>
 
 </p> 
@@ -26,28 +20,7 @@
 
 - ⚡ Fun fact **Football, Music and Book**
 
-[comment]: <> (<div align="center">)
 
-[comment]: <> (   <img src="https://github-profile-trophy.vercel.app/?username=beyrakin&theme=flat&no-frame=true&margin-w=30" />)
-
-[comment]: <> (</div>)
-
-
-[comment]: <> (<h3 align="left">Connect with me:</h3>)
-
-[comment]: <> (<p align="left">)
-
-[comment]: <> (<a href="https://twitter.com/beyrakmsc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="beyrakmsc" height="30" width="40" /></a>)
-
-[comment]: <> (<a href="https://instagram.com/beyrvk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="beyrvk" height="30" width="40" /></a>)
-
-[comment]: <> (</p>)
-
-[comment]: <> (<h3 align="left">Languages and Tools:</h3>)
-
-[comment]: <> (<p align="left" > )
-
-[comment]: <> (    <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>)
 
 * **Programming Languages**
 
@@ -65,27 +38,6 @@
     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
 </p>
 
-[comment]: <> (* **IDEs/Editors**)
-
-[comment]: <> (<p align="center">)
-
-[comment]: <> (    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>)
-
-[comment]: <> (    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>)
-
-[comment]: <> (    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>)
-
-[comment]: <> (</p>)
-
-[comment]: <> (* **Version Control**)
-
-[comment]: <> (<p align="center">)
-
-[comment]: <> (    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>)
-
-[comment]: <> (    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>)
-
-[comment]: <> (</p>)
 
 * **Social**
 
@@ -94,42 +46,6 @@
     <a target="_blank" href="https://twitter.com/tweetcimuhendis"> <img alt="Twitter" src="https://img.shields.io/badge/<Ferdi Zeynalov>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 
 
-[comment]: <> (    <a target="_blank" href="mailto:beyreke20509@sabah.edu.az"> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a>)
 
-[comment]: <> (    <a target="_blank" href="https://discord.gg/mCXUy6j2Gb"> <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> </a>)
-
-[comment]: <> (    <a target="_blank" href="https://medium.com/@beyrak"> <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>  </a>)
-</p>
-
-
-
-[comment]: <> (* **Music**)
-
-[comment]: <> (<p align="center">)
-
-[comment]: <> (    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />)
-
-[comment]: <> (    <img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />)
-
-[comment]: <> (</p>)
-
-[comment]: <> (* **Operating System**)
-
-[comment]: <> (<p align="center">)
-
-[comment]: <> (    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />)
-
-[comment]: <> (    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />)
-
-[comment]: <> (    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />)
-
-[comment]: <> (    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />)
-
-[comment]: <> (</p>)
-
-
-[comment]: <> (<h3 align="left">Support:</h3>)
-
-[comment]: <> (<p><a href="https://www.buymeacoffee.com/beyrak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beyrak" />)
 
 
