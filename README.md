@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @ferdizeynalov
-- 👀 I’m interested in Django
-- 🌱 I’m currently learning Django
-- 📫 How to reach me instagram.com/ferdi.zeynalov
+Hi , I'm Fardi
+Web developer
 
-<!---
-ferdizeynalov/ferdizeynalov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+telescope I’m currently working on E-commerce project
+
+speech_balloon Ask me about Python,Django,HTML,CSS
+
+mailbox How to reach me ferdi.zeynalov9@gmail.com
+
+page_facing_up Know about my experiences (Web developer)
+
+zap Fun fact Tennis, Music and Game
+
+Programming Languages
+Java JavaScript HTML5 CSS3 Python Kotlin Dart
+
+Frameworks and libraries
+Flutter React React Native Bootstrap Django
+
+Social
+Instagram Twitter LinkedIn
+
+Store
+Play Store
