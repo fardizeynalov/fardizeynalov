@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **E-commerce project**
 
-- 💬 Ask me about **Python,Django,HTML,CSS**
+- 💬 Ask me about **HTML,CSS,JS,Python,QA Engineering**
 
-- 📫 How to reach me **ferdi.zeynalov9@gmail.com**
+- 📫 How to reach me **fardizeynalov@gmail.com**
 
-- 📄 Know about my experiences (Web developer)
+- 📄 Know about my experiences (QA Engineer,Web developer)
 
 - ⚡ Fun fact **Football, Music and Book**
 
@@ -42,8 +42,8 @@
 * **Social**
 
 <p align="center">
-    <a target="_blank" href="https://instagram.com/ferdi.zeynalov">  <img alt="Instagram" src="https://img.shields.io/badge/<ferdi.zeynalov>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
-    <a target="_blank" href="https://twitter.com/tweetcimuhendis"> <img alt="Twitter" src="https://img.shields.io/badge/<Ferdi Zeynalov>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+    <a target="_blank" href="https://instagram.com/fardi.zeynalov">  <img alt="Instagram" src="https://img.shields.io/badge/<fardi.zeynalov>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
+    <a target="_blank" href="https://twitter.com/sifir85"> <img alt="Twitter" src="https://img.shields.io/badge/<Ferdi Zeynalov>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 
 
 
