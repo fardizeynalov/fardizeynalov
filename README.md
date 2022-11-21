@@ -44,6 +44,7 @@
 <p align="center">
     <a target="_blank" href="https://instagram.com/fardi.zeynalov">  <img alt="Instagram" src="https://img.shields.io/badge/<fardi.zeynalov>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  </a> 
     <a target="_blank" href="https://twitter.com/sifir85"> <img alt="Twitter" src="https://img.shields.io/badge/<Ferdi Zeynalov>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+   <a target="_blank" href="[https://twitter.com/sifir85](https://www.linkedin.com/in/fardi-zeynalov-40875a193/)"> <img alt="Twitter" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>Fardi Zeynalov </a>
 
 
 
