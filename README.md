@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fardi</h1>
-<h3 align="center">Web developer, QA Engineer</h3>
+<h3 align="center">QA Automation Engineer</h3>
 
 <p align="center"> 
 
@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **E-commerce project**
 
-- 💬 Ask me about **HTML,CSS,JS,Python,QA Engineering**
+- 💬 Ask me about **QA Engineering,Selenium,Java,HTML,CSS**
 
 - 📫 How to reach me **fardizeynalov@gmail.com**
 
-- 📄 Know about my experiences (QA Engineer,Web developer)
+- 📄 Know about my experiences (QA Automation Engineer)
 
 - ⚡ Fun fact **Football, Music and Book**
 
