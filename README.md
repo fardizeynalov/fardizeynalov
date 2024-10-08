@@ -10,7 +10,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ferdizeynalov&theme=dark&count_private=true&show_icons=true" />
 
-- 🔭 I’m currently working on **E-commerce project**
+- 🔭 I’m currently working on **Banking Sector**
 
 - 💬 Ask me about **QA Engineering,Selenium,Java,HTML,CSS**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences (QA Automation Engineer)
 
-- ⚡ Fun fact **Football, Music and Book**
+- ⚡ Fun fact **Football, Music and Books**
 
 
 
