@@ -25,7 +25,7 @@
 * **Programming Languages**
 
 <p align="center">
-    <img alt="Static Badge" src="https://img.shields.io/badge/java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white">
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -34,8 +34,8 @@
 * **Frameworks and libraries**
 
 <p align="center">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> 
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%23563D7C.svg?&style=for-the-badge&logo=&logoColor=white"/>
+    <img alt="TestNG" src="https://img.shields.io/badge/TestNG-%23092E20.svg?&style=for-the-badge&logo=&logoColor=white"/>
 </p>
 
 
